@@ -1,0 +1,32 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.key
+*.pem
+*.cert
+*.password
+*secret*
+*credential*
+*apikey*
+*api_key*
+*token*
+*auth*
+service-account*.json
+google-services.json
+firebase-adminsdk*.json
+
+# Logs
+*.log
+firebase-debug.*.log

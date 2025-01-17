@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mrbobheap"
+  },
+  "targets": {
+    "mrbobheap": {
+      "hosting": {
+        "mrbob-policy-tracker": [
+          "mrbob-policy-tracker"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
